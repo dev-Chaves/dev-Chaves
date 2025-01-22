@@ -2,7 +2,13 @@
 
 ## Sobre Mim
 
-Sou um estudante de Engenharia de Software apaixonado por desenvolvimento web e programação. Atualmente, estou focado em construir uma base sólida em **JavaScript**, explorando desde os fundamentos até frameworks e bibliotecas mais avançadas. Este repositório serve como uma coleção de projetos e atividades que desenvolvo durante o curso, além de experimentos pessoais com tecnologias que venho estudando.
+Sou estudante de Engenharia de Software (3º período) e apaixonado por tecnologia e inovação. Atualmente, sou estagiário em IT Support, atuando com suporte técnico, redes, nuvem, sistemas e até desenvolvimento de softwares. Cada dia no estágio é uma oportunidade de aprender algo novo e colocar a mão na massa!
+
+Tenho mergulhado no universo do desenvolvimento com **Java**, **Node.js** e **React**, sempre buscando transformar conhecimento em projetos práticos. Também concluí o programa **Google IT Support**, que me deu uma base sólida para encarar desafios na área de TI com confiança e criatividade.
+
+Adoro transformar ideias em soluções reais e encarar qualquer desafio – seja resolver um bug, otimizar um sistema ou criar algo do zero. Tecnologia é minha vibe, e o futuro é o meu playground. 😄
+
+
 
 ## Tecnologias e Ferramentas
 
