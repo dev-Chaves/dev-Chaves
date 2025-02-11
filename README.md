@@ -1,48 +1,59 @@
- João Vitor Chaves - Engenheiro de Software
+ # João Vitor Chaves  
+**Engenheiro de Software | Estudante de Engenharia de Software (3º período)**  
+**Estagiário em IT Support**  
+**Foco em Java, Spring Boot, JPA, Security e Desenvolvimento Web**  
 
-## Sobre Mim
+---
 
-Sou estudante de Engenharia de Software (3º período) e apaixonado por tecnologia e inovação. Atualmente, sou estagiário em IT Support, atuando com suporte técnico, redes, nuvem, sistemas e até desenvolvimento de softwares. Cada dia no estágio é uma oportunidade de aprender algo novo e colocar a mão na massa!
+## 📌 Sobre Mim
 
-Tenho mergulhado no universo do desenvolvimento com **Java**, **Node.js** e **React**, sempre buscando transformar conhecimento em projetos práticos. Também concluí o programa **Google IT Support**, que me deu uma base sólida para encarar desafios na área de TI com confiança e criatividade.
+Sou apaixonado por tecnologia e inovação, atualmente cursando o 3º período de Engenharia de Software e atuando como estagiário em IT Support. Nesta função, aprendo e aplico conhecimentos em suporte técnico, redes, nuvem, sistemas e, principalmente, desenvolvimento de software.
 
-Adoro transformar ideias em soluções reais e encarar qualquer desafio – seja resolver um bug, otimizar um sistema ou criar algo do zero. Tecnologia é minha vibe, e o futuro é o meu playground. 😄
+Após concluir o programa **Google IT Support**, direcionei meus estudos para construir aplicações robustas e escaláveis utilizando **Java** e o ecossistema **Spring**. Hoje, meu foco está no desenvolvimento **Back-End**, integrando tecnologias como **JPA** para o mapeamento objeto-relacional, **Spring Security** para autenticação e autorização, e **Spring Web** para a criação de APIs RESTful e aplicações web.
 
+---
 
+## 🛠 Tecnologias e Ferramentas  
 
-## Tecnologias e Ferramentas
+### 🚀 Desenvolvimento Back-End
+- **Java** → Programação orientada a objetos e desenvolvimento de aplicações robustas.
+- **Spring Boot** → Criação rápida e eficiente de aplicações Java.
+- **JPA/Hibernate** → Mapeamento objeto-relacional facilitando a comunicação com bancos de dados.
+- **Spring Security** → Implementação de autenticação e autorização em aplicações.
+- **Spring Web (REST)** → Desenvolvimento de APIs RESTful e aplicações web.
 
-# João Vitor - Desenvolvedor
+### 💾 Bancos de Dados
+- **PostgreSQL** → Consultas avançadas, otimização de performance e modelagem de dados.
+- **SQLite/SQL** → Gerenciamento de bancos de dados relacionais leves.
 
-Atualmente, estou me aprofundando em várias tecnologias com foco no desenvolvimento backend e gerenciamento de bancos de dados. Tenho experiência com **JavaScript (ES6+)**, **Node.js**, **Express.js**, e estou expandindo meus conhecimentos em **SQLite**, **PostgreSQL**, além de estar aprimorando minhas habilidades com **HTML5**, **CSS3**, e **Git/GitHub** para controle de versão. Também tenho experiência em **IT Support**, onde atuo na resolução de problemas técnicos e suporte a usuários internos.
+### 🖥️ Outras Tecnologias
+- **JavaScript (ES6+)** → Desenvolvimento de funcionalidades avançadas para a web.
+- **Node.js e Express.js** → Criação de APIs e servidores back-end.
+- **HTML5 / CSS3** → Desenvolvimento de interfaces web modernas e responsivas.
+- **Git e GitHub** → Controle de versão e colaboração em projetos.
+- **VSCode** → Ambiente de desenvolvimento integrado (IDE) configurado para produtividade.
 
-## Tecnologias e Ferramentas
+### 🔧 IT Support
+- Suporte técnico, manutenção de sistemas e resolução de problemas, contribuindo para a otimização de processos de TI.
 
-- **JavaScript (ES6+)**: Desenvolvimento de funcionalidades avançadas em JavaScript, incluindo manipulação de arrays, funções assíncronas e estruturação de código modular.
-- **Node.js**: Criação de servidores backend e APIs eficientes e escaláveis.
-- **Express.js**: Desenvolvimento de APIs RESTful, focando em estruturação e segurança.
-- **SQLite/SQL**: Gerenciamento e manipulação de bancos de dados relacionais leves.
-- **PostgreSQL**: Profundamento em banco de dados relacional, consultas SQL avançadas e otimização de performance.
-- **HTML5 / CSS3**: Criação de interfaces web responsivas e modernas.
-- **Git e GitHub**: Controle de versão, colaboração e gerenciamento de projetos de software.
-- **VSCode**: IDE principal para desenvolvimento, com configuração e otimização de extensões.
-- **IT Support**: Suporte técnico e resolução de problemas para usuários internos, manutenção de sistemas e otimização de processos de TI.
+---
 
-## Objetivos
+## 🎯 Objetivos
 
-- Aperfeiçoar o desenvolvimento de sistemas backend com foco em escalabilidade e desempenho.
-- Expandir meus conhecimentos em bancos de dados relacionais e não relacionais.
-- Continuar aprimorando minhas habilidades em desenvolvimento web e controle de versões.
-- Aplicar meu conhecimento de **IT Support** para melhorar a experiência do usuário final e otimizar ambientes de TI.
+- *Me tornar um desenvolvedor Back-End** com ênfase em **Java**, **Spring Boot**, **JPA**, **Spring Security** e **Spring Web**.
+- Desenvolver aplicações robustas, seguras e escaláveis, utilizando as melhores práticas do mercado.
+- Expandir minha experiência com bancos de dados relacionais e não relacionais, garantindo alta performance e integridade dos dados.
+- Integrar minha experiência em IT Support para melhorar a experiência do usuário final e otimizar ambientes de TI.
 
+---
 
-## Como Contribuir
+## 📬 Como Contribuir  
 
-Se você quiser contribuir com algum projeto ou simplesmente trocar uma ideia sobre desenvolvimento, sinta-se à vontade para:
+Se você deseja colaborar em algum projeto ou trocar ideias sobre desenvolvimento, fique à vontade para:
 
-- **Abrir uma Issue** ou **Pull Request**
-- Me mandar uma mensagem via [LinkedIn](www.linkedin.com/in/joão-vitor-chaves-9412912b7) ou [Email](mailto:chavesprogrammer@gmail.com)
+- **Abrir uma Issue** ou **Pull Request**  
+- Entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-chaves-9412912b7) ou [Email](mailto:chavesprogrammer@gmail.com)
 
+---
 
-
-"Learning never exhausts the mind." – Leonardo da Vinci
+> *"Learning never exhausts the mind."* – Leonardo da Vinci
