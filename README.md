@@ -15,13 +15,18 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 
 ## 🛠 Tecnologias e Ferramentas  
 
-### 🚀 Desenvolvimento Back-End
-- **Java** → Programação orientada a objetos e desenvolvimento de aplicações robustas.
-- **Spring Boot** → Criação rápida e eficiente de aplicações Java.
-- **JPA/Hibernate** → Mapeamento objeto-relacional facilitando a comunicação com bancos de dados.
-- **Spring Security** → Implementação de autenticação e autorização em aplicações.
-- **Spring Web (REST)** → Desenvolvimento de APIs RESTful e aplicações web.
+### 🚀 Desenvolvimento Back-End  
+- **Java** → Programação orientada a objetos e desenvolvimento de aplicações robustas.  
+- **Spring Boot** → Criação rápida e eficiente de aplicações Java.  
+- **JPA/Hibernate** → Mapeamento objeto-relacional facilitando a comunicação com bancos de dados.  
+- **Spring Security** → Implementação de autenticação e autorização em aplicações.  
+- **Spring Web (REST)** → Desenvolvimento de APIs RESTful e aplicações web.  
+- **Node.js** → Ambiente de execução JavaScript para criação de APIs escaláveis e assíncronas.  
+- **Express.js** → Framework minimalista para desenvolvimento de servidores e APIs em Node.js.  
 
+### 💻 Desenvolvimento Front-End  
+- **React.js** → Biblioteca JavaScript para criação de interfaces dinâmicas e componentes reutilizáveis.  
+- **Axios** → Cliente HTTP para consumo de APIs. 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
