@@ -22,6 +22,7 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 - **Spring Security** → Implementação de autenticação e autorização em aplicações.
 - **Spring Web (REST)** → Desenvolvimento de APIs RESTful e aplicações web.
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -55,6 +56,7 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
+
 
 ###
 
