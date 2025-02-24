@@ -76,6 +76,7 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 
 ### 🔧 IT Support
 - Suporte técnico, manutenção de sistemas e resolução de problemas, contribuindo para a otimização de processos de TI.
+- Infra, manutenção e monitoramento de equipamentos de redes e servidor.
 
 ---
 
