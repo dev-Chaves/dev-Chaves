@@ -25,8 +25,9 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 - **Express.js** → Framework minimalista para desenvolvimento de servidores e APIs em Node.js.  
 
 ### 💻 Desenvolvimento Front-End  
+- **Next.Js** → é um framework JavaScript de código aberto que simplifica o desenvolvimento de aplicações web React, fornecendo ferramentas e funcionalidades para otimizar o desempenho, a experiência do usuário e o SEO
 - **React.js** → Biblioteca JavaScript para criação de interfaces dinâmicas e componentes reutilizáveis.  
-- **Axios** → Cliente HTTP para consumo de APIs. 
+- **Angular** → é um framework JavaScript de código aberto, criado e mantido pelo Google, que facilita a construção de aplicações web dinâmicas e interativas, especialmente aplicações de página única (Single Page Applications - SPAs). 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
