@@ -67,6 +67,7 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 ### 💾 Bancos de Dados
 - **PostgreSQL** → Consultas avançadas, otimização de performance e modelagem de dados.
 - **SQLite/SQL** → Gerenciamento de bancos de dados relacionais leves.
+- **MongoDB** → MongoDB → Modelagem de dados NoSQL, criação de coleções, consultas com agregações ($lookup, $match, $group) e integração com aplicações via drivers Java.
 
 ### 🖥️ Outras Tecnologias
 - **JavaScript (ES6+)** → Desenvolvimento de funcionalidades avançadas para a web.
