@@ -25,7 +25,6 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 - **Express.js** → Framework minimalista para desenvolvimento de servidores e APIs em Node.js.  
 
 ### 💻 Desenvolvimento Front-End  
-- **Next.Js** → é um framework JavaScript de código aberto que simplifica o desenvolvimento de aplicações web React, fornecendo ferramentas e funcionalidades para otimizar o desempenho, a experiência do usuário e o SEO
 - **React.js** → Biblioteca JavaScript para criação de interfaces dinâmicas e componentes reutilizáveis.  
 - **Angular** → é um framework JavaScript de código aberto, criado e mantido pelo Google, que facilita a construção de aplicações web dinâmicas e interativas, especialmente aplicações de página única (Single Page Applications - SPAs). 
 
@@ -74,7 +73,6 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 - **Node.js e Express.js** → Criação de APIs e servidores back-end.
 - **HTML5 / CSS3** → Desenvolvimento de interfaces web modernas e responsivas.
 - **Git e GitHub** → Controle de versão e colaboração em projetos.
-- **VSCode** → Ambiente de desenvolvimento integrado (IDE) configurado para produtividade.
 
 ### 🔧 IT Support
 - Suporte técnico, manutenção de sistemas e resolução de problemas, contribuindo para a otimização de processos de TI.
@@ -100,4 +98,4 @@ Se você deseja colaborar em algum projeto ou trocar ideias sobre desenvolviment
 
 ---
 
-> *"Learning never exhausts the mind."* – Leonardo da Vinci
+> *"just do it."* 
