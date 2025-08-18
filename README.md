@@ -1,6 +1,6 @@
  # João Vitor Chaves  
 **Engenheiro de Software | Estudante de Engenharia de Software (4º período)**  
-**Estagiário em IT Support**  
+**Auxiliar de TI**  
 **Foco em Java, Spring Boot, JPA, Security e Desenvolvimento Web**  
 
 ---
