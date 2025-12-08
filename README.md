@@ -26,7 +26,6 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 
 ### 💻 Desenvolvimento Front-End  
 - **React.js** → Biblioteca JavaScript para criação de interfaces dinâmicas e componentes reutilizáveis.  
-- **Angular** → é um framework JavaScript de código aberto, criado e mantido pelo Google, que facilita a construção de aplicações web dinâmicas e interativas, especialmente aplicações de página única (Single Page Applications - SPAs). 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -39,19 +38,13 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40" alt="bun logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.png" height="40" alt="hono logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -61,18 +54,14 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 </div>
 
 
-###
 
 ### 💾 Bancos de Dados
 - **PostgreSQL** → Consultas avançadas, otimização de performance e modelagem de dados.
 - **SQLite/SQL** → Gerenciamento de bancos de dados relacionais leves.
-- **MongoDB** → MongoDB → Modelagem de dados NoSQL, criação de coleções, consultas com agregações ($lookup, $match, $group) e integração com aplicações via drivers Java.
 
 ### 🖥️ Outras Tecnologias
 - **JavaScript (ES6+)** → Desenvolvimento de funcionalidades avançadas para a web.
 - **Node.js e Express.js** → Criação de APIs e servidores back-end.
-- **HTML5 / CSS3** → Desenvolvimento de interfaces web modernas e responsivas.
-- **Git e GitHub** → Controle de versão e colaboração em projetos.
 
 ### 🔧 IT Support
 - Suporte técnico, manutenção de sistemas e resolução de problemas, contribuindo para a otimização de processos de TI.
@@ -94,7 +83,7 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 Se você deseja colaborar em algum projeto ou trocar ideias sobre desenvolvimento, fique à vontade para:
 
 - **Abrir uma Issue** ou **Pull Request**  
-- Entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-chaves-9412912b7) ou [Email](mailto:chavesprogrammer@gmail.com)
+- Entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/joao-vitor-chaves-silva-dev/) ou [Email](mailto:chavesprogrammer@gmail.com)
 
 ---
 
