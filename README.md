@@ -1,15 +1,15 @@
  # João Vitor Chaves  
-**Engenheiro de Software | Estudante de Engenharia de Software (4º período)**  
-**Dev Backend**  
-**Foco em Java, Spring Boot, JPA, Security e Desenvolvimento Web**  
+**Desenvolvedor Backend Java Junior | SysOps**  
+**Estudante de Engenharia de Software**  
+**Foco em Java, Spring Boot, Sustentação e Desenvolvimento Web**  
 
 ---
 
 ## 📌 Sobre Mim
 
-Sou apaixonado por tecnologia e inovação, atualmente cursando o 3º período de Engenharia de Software e atuando como estagiário em IT Support. Nesta função, aprendo e aplico conhecimentos em suporte técnico, redes, nuvem, sistemas e, principalmente, desenvolvimento de software.
+Atualmente atuo como **Desenvolvedor Backend Java Junior** no time de **SysOps**, garantindo a sustentação de serviços e do monolito. No meu dia a dia, lido com **bancos de dados**, otimização de **queries** e utilizo **Elastic KQL** para análise e busca de logs, assegurando a estabilidade e performance das aplicações.
 
-Após concluir o programa **Google IT Support**, direcionei meus estudos para construir aplicações robustas e escaláveis utilizando **Java** e o ecossistema **Spring**. Hoje, meu foco está no desenvolvimento **Back-End**, integrando tecnologias como **JPA** para o mapeamento objeto-relacional, **Spring Security** para autenticação e autorização, e **Spring Web** para a criação de APIs RESTful e aplicações web.
+Além da minha atuação com **Java** e **Spring**, também desenvolvo em **TypeScript** e estou expandindo meus conhecimentos no ecossistema **Node.js** e **Bun**, explorando novas abordagens para construção de APIs e microsserviços.
 
 ---
 
@@ -60,12 +60,15 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 - **SQLite/SQL** → Gerenciamento de bancos de dados relacionais leves.
 
 ### 🖥️ Outras Tecnologias
+- **TypeScript** → Desenvolvimento de aplicações escaláveis com tipagem estática.
 - **JavaScript (ES6+)** → Desenvolvimento de funcionalidades avançadas para a web.
-- **Node.js e Express.js** → Criação de APIs e servidores back-end.
+- **Node.js / Bun** → Ambientes de execução para construção de APIs e serviços de alta performance.
+- **Hono** → Framework web leve e rápido para criar APIs em padrões modernos.
 
-### 🔧 IT Support
-- Suporte técnico, manutenção de sistemas e resolução de problemas, contribuindo para a otimização de processos de TI.
-- Infra, manutenção e monitoramento de equipamentos de redes e servidor.
+### 🔧 SysOps & Observabilidade
+- **Sustentação** → Manutenção de serviços e monolitos, garantindo disponibilidade.
+- **Elastic / KQL** → Busca e análise de logs para monitoramento e troubleshooting.
+- **Infraestrutura** → Noções de redes, servidores e ambientes de produção.
 
 ---
 
@@ -83,7 +86,7 @@ Após concluir o programa **Google IT Support**, direcionei meus estudos para co
 Se você deseja colaborar em algum projeto ou trocar ideias sobre desenvolvimento, fique à vontade para:
 
 - **Abrir uma Issue** ou **Pull Request**  
-- Entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/joao-vitor-chaves-silva-dev/) ou [Email](mailto:chavesprogrammer@gmail.com)
+- Entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-chaves-9412912b7) ou [Email](mailto:chavesprogrammer@gmail.com)
 
 ---
 
