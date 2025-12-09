@@ -22,7 +22,7 @@ Além da minha atuação com **Java** e **Spring**, também desenvolvo em **Type
 - **Spring Security** → Implementação de autenticação e autorização em aplicações.  
 - **Spring Web (REST)** → Desenvolvimento de APIs RESTful e aplicações web.  
 - **Node.js** → Ambiente de execução JavaScript para criação de APIs escaláveis e assíncronas.  
-- **Express.js** → Framework minimalista para desenvolvimento de servidores e APIs em Node.js.  
+- **NestJS** → Framework progressivo para construção de aplicações Node.js eficientes e escaláveis.  
 
 ### 💻 Desenvolvimento Front-End  
 - **React.js** → Biblioteca JavaScript para criação de interfaces dinâmicas e componentes reutilizáveis.  
@@ -32,11 +32,17 @@ Além da minha atuação com **Java** e **Spring**, também desenvolvo em **Type
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -48,9 +54,9 @@ Além da minha atuação com **Java** e **Spring**, também desenvolvo em **Type
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img width="12" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo"  />
 </div>
 
 
