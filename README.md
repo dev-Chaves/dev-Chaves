@@ -1,7 +1,7 @@
  # João Vitor Chaves  
-**Desenvolvedor Backend Java Junior | SysOps**  
+**Desenvolvedor Backend Java Junior**  
 **Estudante de Engenharia de Software**  
-**Foco em Java, Spring Boot, Sustentação e Desenvolvimento Web**  
+**Foco em Java, Banco de Dados, Arquitetura de Software**  
 
 ---
 
