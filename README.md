@@ -5,7 +5,7 @@
 
 ## 📌 Sobre Mim
 
-Atuo como **Desenvolvedor Backend Java** no time de **SysOps**, com foco em **sistemas distribuídos**, **observabilidade** e sustentação de sistemas críticos em um ambiente de **alta volumetria no e-commerce**. No dia a dia, trabalho com correções e implementações de features, troubleshooting em produção e integrações entre sistemas.
+Atuo como **Desenvolvedor Backend Java**, com foco em **sistemas distribuídos**, **observabilidade** e sustentação de sistemas críticos em um ambiente de **alta volumetria no e-commerce**. No dia a dia, trabalho com correções e implementações de features, troubleshooting em produção e integrações entre sistemas.
 
 Além do ecossistema **Java**, **Spring Boot** e **Quarkus**, também desenvolvo com **TypeScript**, **Node.js** e **Bun**, explorando novas abordagens para construção de APIs e microsserviços.
 
