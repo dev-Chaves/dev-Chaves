@@ -1,15 +1,13 @@
  # João Vitor Chaves  
-**Desenvolvedor Backend Java Junior**  
-**Estudante de Engenharia de Software**  
-**Foco em Java, Banco de Dados, Arquitetura de Software**  
-
+**Desenvolvedor Backend Java**  
+**Foco em Sistemas Distribuídos, Observabilidade & Sustentação de Sistemas Críticos**  
 ---
 
 ## 📌 Sobre Mim
 
-Atualmente atuo como **Desenvolvedor Backend Java Junior** no time de **SysOps**, garantindo a sustentação de serviços e do monolito. No meu dia a dia, lido com **bancos de dados**, otimização de **queries** e utilizo **Elastic KQL** para análise e busca de logs, assegurando a estabilidade e performance das aplicações.
+Atuo como **Desenvolvedor Backend Java** no time de **SysOps**, com foco em **sistemas distribuídos**, **observabilidade** e sustentação de sistemas críticos em um ambiente de **alta volumetria no e-commerce**. No dia a dia, trabalho com correções e implementações de features, troubleshooting em produção e integrações entre sistemas.
 
-Além da minha atuação com **Java** e **Spring**, também desenvolvo em **TypeScript** e estou expandindo meus conhecimentos no ecossistema **Node.js** e **Bun**, explorando novas abordagens para construção de APIs e microsserviços.
+Além do ecossistema **Java**, **Spring Boot** e **Quarkus**, também desenvolvo com **TypeScript**, **Node.js** e **Bun**, explorando novas abordagens para construção de APIs e microsserviços.
 
 ---
 
@@ -18,27 +16,16 @@ Além da minha atuação com **Java** e **Spring**, também desenvolvo em **Type
 ### 🚀 Desenvolvimento Back-End  
 - **Java** → Programação orientada a objetos e desenvolvimento de aplicações robustas.  
 - **Spring Boot** → Criação rápida e eficiente de aplicações Java.  
-- **JPA/Hibernate** → Mapeamento objeto-relacional facilitando a comunicação com bancos de dados.  
-- **Spring Security** → Implementação de autenticação e autorização em aplicações.  
-- **Spring Web (REST)** → Desenvolvimento de APIs RESTful e aplicações web.  
+- **Quarkus** → Framework Java nativo em nuvem com suporte a programação reativa.  
 - **Node.js** → Ambiente de execução JavaScript para criação de APIs escaláveis e assíncronas.  
-- **NestJS** → Framework progressivo para construção de aplicações Node.js eficientes e escaláveis.  
-
-### 💻 Desenvolvimento Front-End  
-- **React.js** → Biblioteca JavaScript para criação de interfaces dinâmicas e componentes reutilizáveis.  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -57,13 +44,27 @@ Além da minha atuação com **Java** e **Spring**, também desenvolvo em **Type
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
 </div>
 
 
 
 ### 💾 Bancos de Dados
 - **PostgreSQL** → Consultas avançadas, otimização de performance e modelagem de dados.
+- **MongoDB** → Modelagem de dados não relacional para projetos flexíveis e escaláveis.
+- **Redis** → Cache e filas para alta performance.
 - **SQLite/SQL** → Gerenciamento de bancos de dados relacionais leves.
+
+### 📨 Mensageria & Eventos
+- **Kafka** → Consumo de eventos e arquiteturas distribuídas via Pub/Sub.
+- **RabbitMQ** → Consumo de mensagens para processos assíncronos.
 
 ### 🖥️ Outras Tecnologias
 - **TypeScript** → Desenvolvimento de aplicações escaláveis com tipagem estática.
@@ -74,16 +75,9 @@ Além da minha atuação com **Java** e **Spring**, também desenvolvo em **Type
 ### 🔧 SysOps & Observabilidade
 - **Sustentação** → Manutenção de serviços e monolitos, garantindo disponibilidade.
 - **Elastic / KQL** → Busca e análise de logs para monitoramento e troubleshooting.
+- **Docker** → Conteinerização de aplicações.
+- **AWS** → Serviços em nuvem e infraestrutura.
 - **Infraestrutura** → Noções de redes, servidores e ambientes de produção.
-
----
-
-## 🎯 Objetivos
-
-- *Me tornar um desenvolvedor Back-End** com ênfase em **Java**, **Spring Boot**, **JPA**, **Spring Security** e **Spring Web**.
-- Desenvolver aplicações robustas, seguras e escaláveis, utilizando as melhores práticas do mercado.
-- Expandir minha experiência com bancos de dados relacionais e não relacionais, garantindo alta performance e integridade dos dados.
-- Integrar minha experiência em IT Support para melhorar a experiência do usuário final e otimizar ambientes de TI.
 
 ---
 
@@ -92,7 +86,7 @@ Além da minha atuação com **Java** e **Spring**, também desenvolvo em **Type
 Se você deseja colaborar em algum projeto ou trocar ideias sobre desenvolvimento, fique à vontade para:
 
 - **Abrir uma Issue** ou **Pull Request**  
-- Entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-chaves-9412912b7) ou [Email](mailto:chavesprogrammer@gmail.com)
+- Entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/joao-vitor-chaves-silva-dev/) ou [Email](mailto:chavesprogrammer@gmail.com)
 
 ---
 
