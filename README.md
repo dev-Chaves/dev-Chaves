@@ -17,7 +17,7 @@ Além do ecossistema **Java**, **Spring Boot** e **Quarkus**, também desenvolvo
 - **Java** → Programação orientada a objetos e desenvolvimento de aplicações robustas.  
 - **Spring Boot** → Criação rápida e eficiente de aplicações Java.  
 - **Quarkus** → Framework Java nativo em nuvem com suporte a programação reativa.  
-- **Node.js** → Ambiente de execução JavaScript para criação de APIs escaláveis e assíncronas.  
+- **Node.js** → Ambiente de execução Typescript para criação de APIs escaláveis e assíncronas.  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -30,8 +30,6 @@ Além do ecossistema **Java**, **Spring Boot** e **Quarkus**, também desenvolvo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -68,7 +66,6 @@ Além do ecossistema **Java**, **Spring Boot** e **Quarkus**, também desenvolvo
 
 ### 🖥️ Outras Tecnologias
 - **TypeScript** → Desenvolvimento de aplicações escaláveis com tipagem estática.
-- **JavaScript (ES6+)** → Desenvolvimento de funcionalidades avançadas para a web.
 - **Node.js / Bun** → Ambientes de execução para construção de APIs e serviços de alta performance.
 - **Hono** → Framework web leve e rápido para criar APIs em padrões modernos.
 
