@@ -1,46 +1,47 @@
- # João Vitor Chaves  
-**Desenvolvedor Backend Java**  
-**Foco em Sistemas Distribuídos, Observabilidade & Sustentação de Sistemas Críticos**  
----
-
-## 📌 Sobre Mim
-
-Atuo como **Desenvolvedor Backend Java**, com foco em **sistemas distribuídos**, **observabilidade** e sustentação de sistemas críticos em um ambiente de **alta volumetria no e-commerce**. No dia a dia, trabalho com correções e implementações de features, troubleshooting em produção e integrações entre sistemas.
-
-Além do ecossistema **Java**, **Spring Boot** e **Quarkus**, também desenvolvo com **TypeScript**, **Node.js** e **Bun**, explorando novas abordagens para construção de APIs e microsserviços.
-
----
-
-## 🛠 Tecnologias e Ferramentas  
-
-### 🚀 Desenvolvimento Back-End  
-- **Java** → Programação orientada a objetos e desenvolvimento de aplicações robustas.  
-- **Spring Boot** → Criação rápida e eficiente de aplicações Java.  
-- **Quarkus** → Framework Java nativo em nuvem com suporte a programação reativa.  
-- **Node.js** → Ambiente de execução Typescript para criação de APIs escaláveis e assíncronas.  
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40" alt="bun logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.png" height="40" alt="hono logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
+<h1 align="center">João Vitor Chaves</h1>
+<h3 align="center">Backend Developer · Java Ecosystem · Distributed Systems</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-vitor-chaves-silva-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chavesprogrammer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+***Sobre mim
+Desenvolvedor Backend Java com foco em sistemas distribuídos, observabilidade e sustentação de sistemas críticos em ambiente de alta volumetria no e-commerce.
+No dia a dia: implementação de features, troubleshooting em produção e integrações entre serviços. Além do ecossistema Java, também desenvolvo com TypeScript, Node.js e Bun.
+Atualmente explorando decomposição de monolitos legados, arquiteturas orientadas a eventos e padrões como Strangler Fig e DDD.
+***Tecnologias
+Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40" title="Bun" />
+</p>
+Banco de Dados & Mensageria
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" title="Kafka" />
+</p>
+Infra & Observabilidade
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" title="Elasticsearch" />
+</p>
+***GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+***<p align="center"><i>just do it.</i></p>  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
