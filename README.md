@@ -22,7 +22,7 @@ name: João Vitor Chaves
 role: Software Engineer | Backend Developer
 location: Brasil 🇧🇷
 education: Graduação em Engenharia de Software
-focus: Sistemas distribuídos, arquitetura de microsserviços e event-driven
+focus: Sistemas distribuídos, arquitetura de microsserviços
 motto: "just do it."
 ```
 
