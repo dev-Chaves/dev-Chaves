@@ -28,34 +28,7 @@ motto: "just do it."
 
 <br/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ⚙️ Backend & Linguagens
-
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Java e Spring"/>
-&nbsp;
-<img height="48" src="https://skills.syvixor.com/api/icons?i=quarkus" alt="Quarkus"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,bun&theme=dark" alt="TS, Node, Bun"/>
-
-### 💾 Bancos de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" alt="Database Skills"/>
-
-### 📨 Mensageria & Eventos
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" alt="Messaging Skills"/>
-
-### 🔧 DevOps & Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,elasticsearch,maven,gradle&theme=dark" alt="DevOps Skills"/>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>📋 Detalhes das tecnologias</b></summary>
-<br/>
+## Tech Stack
 
 | Categoria | Tecnologias | Descrição |
 |:---|:---|:---|
@@ -66,8 +39,6 @@ motto: "just do it."
 | **🔧 DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Conteinerização, cloud e infra |
 | **📊 Observabilidade** | ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) | Monitoramento, logs e troubleshooting |
 | **🧪 Testes** | ![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) | Testes de carga, performance e unitários |
-
-</details>
 
 <br/>
 
