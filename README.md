@@ -44,7 +44,6 @@ motto: "just do it."
 
 ## 🚀 Projetos em Destaque
 
-- [Pork-Backend](https://github.com/dev-Chaves/Pork-Backend)
 - [Benefix](https://github.com/dev-Chaves/Benefix)
 - [BN](https://github.com/dev-Chaves/BN)
 - [master-slave-reativo](https://github.com/dev-Chaves/master-slave-reativo)
